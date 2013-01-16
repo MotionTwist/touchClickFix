@@ -6,7 +6,7 @@ A jQuery Plugin that "fixes" drop down menu taps on non-Apple touch screen devic
 # How to use
 Simply include jQuery and the jquery.touchclickfix.js file and call `.touchClickFix()` on the parent element of your drop down:
 
-```js
+```html
 	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 	<script type="text/javascript" src="/path/to/jquery.touchclickfix.js"></script>
 	<script type="text/javascript">
